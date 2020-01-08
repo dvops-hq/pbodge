@@ -6,7 +6,7 @@ def pbodger(oper='-+',min=1,max=20,lines=8):
         if c not in '+-/*':     #this module runs the dangerous eval() on these so only allow specific operator characters
             print('Error: '+c+' is not an allowed operator')
             quit()
-    line = 'Intelegence Test:'
+    line = 'Intelligence Test:'
     for _ in range(lines):      # repeat for number of lines
         x = y = randrange(min,max)  # get a random value from the range for x and y
         while y == x:           # make sure y does not equal x. This prevents zero in subtraction
