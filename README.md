@@ -1,5 +1,5 @@
 # pbodge
-Math puzzle bodger. A python command line application; Makes random list of the popular "genius test" math puzzles found on social media.
+Math puzzle bodger. A python command line application; Makes random list of a popular "genius test" math puzzle found on social media.
 
 here is an example:
 
